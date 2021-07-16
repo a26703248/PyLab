@@ -3,9 +3,9 @@ import pymysql.cursors
 config = {
     'host': 'localhost',
     'port': 3306,
-    'user': 'root',
-    'password': 'a0909007892',
-    'db': 'java',
+    'user': '****',
+    'password': '****',
+    'db': '***',
     'charset': 'utf8',
 }
 # 建立連線
